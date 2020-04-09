@@ -1,1 +1,3 @@
-# rajeshvemuri-gmail.com
+# maven-project
+
+Simple Maven Project
